@@ -1,4 +1,4 @@
-# SoundNeuralNetwork
+# Acoustic scene classification
 Repository with neural network for sound signals
 
 Middle Encoding - dataset preprocessing to [L+R, L-R] sound signals
